@@ -1,2 +1,2 @@
-# k8s-network-policy
-k8s-network-policy
+# k8s-Network-Policy
+K8S Network Policy
